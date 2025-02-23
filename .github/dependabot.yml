@@ -11,4 +11,4 @@ updates:
     schedule:
       interval: "monthly"
     allow:
-      # - dependency-name: "@redocly/cli"
+      - dependency-name: "@redocly/cli"
